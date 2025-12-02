@@ -1,2 +1,3 @@
-# API básica react 
+# API básica para estudo
+
 
